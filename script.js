@@ -3,6 +3,7 @@
 //Anonymous function
 
 var result = [];
+
 var a = function (arr) {
   for (var i = 0; i < arr.length; i = i + 1) {
     if (arr[i] % 2 !== 0) {
